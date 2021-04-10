@@ -1,6 +1,6 @@
 # Number Guesser
 
-Play the Number Guesser Game on your browswer! Choose a number between 0 to 10 and see who's number is closer to the target number, you or the computer. Play as many times as you want! Your score will be tracked or you can press reset if you lose too many times! 
+Play the Number Guesser Game on your browser! Choose a number between 0 to 10 and see who's number is closer to the target number, you or the computer. Play as many times as you want! Your score will be tracked.
 
 ## Technology
 
